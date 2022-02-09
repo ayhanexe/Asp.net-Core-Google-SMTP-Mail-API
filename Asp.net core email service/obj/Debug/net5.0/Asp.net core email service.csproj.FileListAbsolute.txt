@@ -1,0 +1,31 @@
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\appsettings.json
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.exe
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.deps.json
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.runtimeconfig.json
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.runtimeconfig.dev.json
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\ref\Asp.net core email service.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Asp.net core email service.pdb
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\MailKit.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\MimeKit.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.csproj.AssemblyReference.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.AssemblyInfoInputs.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.AssemblyInfo.cs
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.csproj.CoreCompileInputs.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\scopedcss\bundle\Asp.net core email service.styles.css
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\staticwebassets\Asp.net core email service.StaticWebAssets.Manifest.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.RazorTargetAssemblyInfo.cache
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.csproj.CopyComplete
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\ref\Asp.net core email service.dll
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.pdb
+C:\Users\0x21106\source\repos\Asp.net core email service\Asp.net core email service\obj\Debug\net5.0\Asp.net core email service.genruntimeconfig.cache
